@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nitish8750.github.io/csb-51bw9e/static/css/main.05f3c0ca.chunk.css",
+    "main.js": "https://nitish8750.github.io/csb-51bw9e/static/js/main.22ba024d.chunk.js",
+    "main.js.map": "https://nitish8750.github.io/csb-51bw9e/static/js/main.22ba024d.chunk.js.map",
+    "runtime-main.js": "https://nitish8750.github.io/csb-51bw9e/static/js/runtime-main.7dd8976d.js",
+    "runtime-main.js.map": "https://nitish8750.github.io/csb-51bw9e/static/js/runtime-main.7dd8976d.js.map",
+    "static/js/2.19d439a0.chunk.js": "https://nitish8750.github.io/csb-51bw9e/static/js/2.19d439a0.chunk.js",
+    "static/js/2.19d439a0.chunk.js.map": "https://nitish8750.github.io/csb-51bw9e/static/js/2.19d439a0.chunk.js.map",
+    "index.html": "https://nitish8750.github.io/csb-51bw9e/index.html",
+    "static/css/main.05f3c0ca.chunk.css.map": "https://nitish8750.github.io/csb-51bw9e/static/css/main.05f3c0ca.chunk.css.map",
+    "static/js/2.19d439a0.chunk.js.LICENSE.txt": "https://nitish8750.github.io/csb-51bw9e/static/js/2.19d439a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dd8976d.js",
+    "static/js/2.19d439a0.chunk.js",
+    "static/css/main.05f3c0ca.chunk.css",
+    "static/js/main.22ba024d.chunk.js"
+  ]
+}
